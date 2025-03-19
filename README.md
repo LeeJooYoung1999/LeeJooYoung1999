@@ -21,9 +21,9 @@
 
 ## 🌱 배우고 있는 기술
 
-- **프론트엔드**: HTML, CSS, JavaScript, Vue.js 등
+- **프론트엔드**: HTML, CSS, JavaScript(ES6), Vue.js 등
 - **백엔드**: Node.js, Express, MongoDB 등
-- **기타**: Git 개발 방식, 협업 툴 활용
+- **기타**: Git 개발 방식, 협업 툴, 알고리즘 활용
 
 ---
 
